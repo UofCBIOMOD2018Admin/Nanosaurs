@@ -13,3 +13,13 @@
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="pulpitrock.jpg" alt="Mountain View" width="500" height="377">
+
+</body>
+</html>
