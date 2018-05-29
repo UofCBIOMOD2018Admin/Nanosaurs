@@ -19,7 +19,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="pulpitrock.jpg" alt="Mountain View" width="500" height="377">
+<img src="snowflakes_01.tif" alt="evaporate" width="500" height="377">
 
 </body>
 </html>
