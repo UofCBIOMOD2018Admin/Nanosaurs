@@ -19,7 +19,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="SEM-Image-Non-Porous-Mono-Dispersed-Silica2-300x276.jpg" alt="test1" width="500" height="377">
+<img src="http://www.glantreo.com/products/chromatography/solas-porous-silica-chromatography/" alt="test1" width="500" height="377">
 
 </body>
 </html>
