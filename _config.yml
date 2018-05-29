@@ -1,11 +1,3 @@
 theme: jekyll-theme-hacker
 title: welcome to the U of C BioMOD 2018 website
-description: unknown test
-div class="dropdown"
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
+description: unknown 
