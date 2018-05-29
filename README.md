@@ -19,7 +19,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="test.jpeg" alt="evaporate" width="500" height="377">
+<img src="test.jpeg" alt="test" width="500" height="377">
 
 </body>
 </html>
