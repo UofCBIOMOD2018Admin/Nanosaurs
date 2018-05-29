@@ -19,7 +19,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="http://www.glantreo.com/products/chromatography/solas-porous-silica-chromatography/" alt="test1" width="500" height="377">
+<img src="http://www.glantreo.com/products/chromatography/solas-porous-silica-chromatography/" alt="test12" width="500" height="377">
 
 </body>
 </html>
