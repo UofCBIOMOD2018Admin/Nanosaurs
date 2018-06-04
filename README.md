@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -126,10 +125,7 @@ body {
   </div> 
 </div>
 
-<div style="padding:24px">
-  <h3>Mega Menu (Full-width dropdown in navbar)</h3>
-  <p>Hover over the "Dropdown" link to see the mega menu.</p>
-</div>
+
 
 </body>
 </html>
