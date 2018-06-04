@@ -21,7 +21,7 @@ body {
     font-size: 16px;
     color: lime;
     text-align: center;
-    padding: 14px 32px;
+    padding: 14px 100px;
     text-decoration: none;
 }
 
@@ -35,7 +35,7 @@ body {
     border: none;
     outline: none;
     color: lime;
-    padding: 14px 30px;
+    padding: 14px 100px;
     background-color: #111;
     font: inherit;
     margin: 0;
