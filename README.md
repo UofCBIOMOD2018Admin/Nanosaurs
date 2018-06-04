@@ -12,9 +12,20 @@ body {
     background-color:#180000;
        margin: 0;
 }
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+* {
+    box-sizing: border-box;
+}
 
-h  {color:lime}
-p  {color:lime]
+body {
+margin: 0;
+   
+}
+
 .navbar {
     overflow: hidden;
     background-color: #111;
@@ -26,7 +37,7 @@ p  {color:lime]
     font-size: 16px;
     color: lime;
     text-align: center;
-    padding: 14px 32px;
+    padding: 14px 28px;
     text-decoration: none;
 }
 
@@ -36,18 +47,18 @@ p  {color:lime]
 }
 
 .dropdown .dropbtn {
-    font-size: 32px;    
+    font-size: 28px;    
     border: none;
     outline: none;
     color: lime;
-    padding: 14px 32px;
+    padding: 14px 30px;
     background-color: #111;
     font: inherit;
     margin: 0;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: navy;
+    background-color: 111;
 }
 
 .dropdown-content {
@@ -101,15 +112,51 @@ p  {color:lime]
 </style>
 </head>
 <body>
-    <h>Welcome</h>
-    <p> to the U of C 2018 BIOMOD team website!</p>
 
 <div class="navbar">
   <a href="#home">Home</a>
   <a href="#news">Design</a>
-  <a href="#news">Lab Book</a>
-  <a href="#news">Results</a>
   <div class="dropdown">
+    <button class="dropbtn">Lab Notebook
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <div class="header">
+      </div>   
+      <div class="row">
+        <div class="column">
+          <a href="#">June</a>
+        </div>
+        <div class="column">
+          <a href="#">July</a>
+             </div>
+          <div class="column">
+          <a href="#">August</a>
+        </div>
+        </div>
+      </div>
+    </div> 
+  <div class="dropdown">
+    <button class="dropbtn">Results
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <div class="header">
+      </div>   
+      <div class="row">
+        <div class="column">
+          <a href="#">Progress</a>
+        </div>
+        <div class="column">
+          <a href="#">Errors</a>
+             </div>
+          <div class="column">
+          <a href="#">Achievments</a>
+        </div>
+        </div>
+      </div>
+    </div>
+<div class="dropdown">
     <button class="dropbtn">About
       <i class="fa fa-caret-down"></i>
     </button>
@@ -132,7 +179,11 @@ p  {color:lime]
   </div> 
 </div>
 
-
+<div style="padding:24px">
+  <h3>Mega Menu (Full-width dropdown in navbar)</h3>
+  <p>Hover over the "Dropdown" link to see the mega menu.</p>
+</div>
 
 </body>
 </html>
+
