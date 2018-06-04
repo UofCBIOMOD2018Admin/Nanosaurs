@@ -2,7 +2,9 @@
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-* {
+*
+   {color:lime}
+   {
     box-sizing: border-box;
 }
 
@@ -95,7 +97,7 @@ body {
 }
 </style>
 </head>
-<body style=color:lime>
+<body>
     <h>Welcome</h>
     <p> to the U of C 2018 BIOMOD team website!</p>
 
