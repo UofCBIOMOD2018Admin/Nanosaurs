@@ -36,7 +36,7 @@ body {
     outline: none;
     color: lime;
     padding: 14px 30px;
-    background-color: navy;
+    background-color: #111;
     font: inherit;
     margin: 0;
 }
