@@ -3,15 +3,17 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 *
-   {color:lime}
-   {
+    {
     box-sizing: border-box;
 }
 
 body {
     margin: 0;
+    background-color:#180000;
 }
 
+h  {color:lime}
+p  {color:lime]
 .navbar {
     overflow: hidden;
     background-color: #111;
