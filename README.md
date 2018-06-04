@@ -95,9 +95,9 @@ body {
 }
 </style>
 </head>
-<body>
-    <h style=color:lime>Welcome</h>
-    <p style=color:lime> to the U of C 2018 BIOMOD team website!</p>
+<body style=color:lime>
+    <h>Welcome</h>
+    <p> to the U of C 2018 BIOMOD team website!</p>
 
 <div class="navbar">
   <a href="#home">Home</a>
