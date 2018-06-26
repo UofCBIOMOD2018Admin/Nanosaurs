@@ -9,7 +9,7 @@
 
 		<!--Hero Image-->
 		<div class="text-center">
-			<img id="heroimage" class="img-fluid" src="images/heroimage.gif" />
+			<file:///C:/Users/Stephen/Documents/moose%20stan%20556.html>
 		</div>
 
 
