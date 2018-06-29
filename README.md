@@ -6,7 +6,6 @@
 <meta charset="UTF-8">
 <meta name="authoring-tool" content="Adobe_Animate_CC">
 <title>moose stan 556</title>
-<!-- write your code here -->
 <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
 <script src="moose stan 556.js"></script>
 <script>
