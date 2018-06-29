@@ -71,7 +71,6 @@ function handleComplete(evt,comp) {
 	fnStartAnimation();
 }
 </script>
-<!-- write your code here -->
 </head>
 <body onload="init();" style="margin:0px;">
 	<div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:550px; height:400px">
